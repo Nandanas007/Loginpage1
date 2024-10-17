@@ -15,10 +15,10 @@ body{
     height:35px;
 }
 .inpbtn{
-    background-color: rgb(58, 84, 235);
+    
     width: 150px;
-    height: 40px;border: none;
-     border-radius: 5px;
+    height: 40px;
+     
      font-weight: bold;
      color: white;
 }
@@ -30,6 +30,5 @@ body{
     font-size:small;padding-left: 130px;
 }
 .inpbtn:hover{
-    background-color:rgb(85, 85, 241);
-    color: black;
+    font-weight: bold;
 }
